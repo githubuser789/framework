@@ -23,6 +23,6 @@ public WebElement link_selenium;
 public void clickSelenium()
 {
 	link_selenium.click();
-	link_selenium.click();
+	
 }
 }
