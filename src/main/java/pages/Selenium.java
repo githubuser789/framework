@@ -20,6 +20,10 @@ public Selenium(WebDriver driver)
 @FindBy (linkText="Selenium")
 public WebElement link_selenium;
 
+@FindBy (linkText="Selenium")
+public WebElement link_selenium1;
+
+
 public void clickSelenium()
 {
 	link_selenium.click();
